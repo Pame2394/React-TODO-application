@@ -1,0 +1,3 @@
+.remove:hover={
+    background: palegreen;
+}
